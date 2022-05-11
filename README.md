@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @allbloodnoguts
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python, Java and Agile
+- 🌱 I’m currently learning Python, Java and C++
 - 📫 You can reach me at https://linktr.ee/1aquemini
 
 <!---
